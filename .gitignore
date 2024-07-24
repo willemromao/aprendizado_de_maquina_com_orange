@@ -1,2 +1,5 @@
+/notebooks/.ipynb_checkpoints
+
 /datasets/*dataset_ies.csv
 /datasets/*cleaned_dataset.csv
+

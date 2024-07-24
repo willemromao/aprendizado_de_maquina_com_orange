@@ -1,7 +1,5 @@
 # Cursos de Graduação no Brasil - Classificação e Regressão
 
-# Cursos de Graduação Brasil
-
 :game_die: **Dataset:** [Clique aqui](https://dadosabertos.mec.gov.br/indicadores-sobre-ensino-superior/item/183-cursos-de-graduacao-do-brasil)
 
 :page_facing_up: **Relatório:** [Clique aqui](/relatorio/Relatório___Análise_Computacional_da_Aprendizagem___Projeto_1.pdf)

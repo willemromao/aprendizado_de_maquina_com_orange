@@ -2,7 +2,7 @@
 
 :game_die: **Dataset:** [Clique aqui](https://dadosabertos.mec.gov.br/indicadores-sobre-ensino-superior/item/183-cursos-de-graduacao-do-brasil)
 
-:page_facing_up: **Relatório:** [Clique aqui](/relatorio/Relatório___Análise_Computacional_da_Aprendizagem___Projeto_1.pdf)
+:page_facing_up: **Relatório:** [Clique aqui](/relatorio/Relatório_Projeto1.pdf)
 
 :tv: **Slide:** [Clique aqui](https://www.canva.com/design/DAGL4KPcbRU/QjbD-zuC5lVUlhbTX14cHg/edit?utm_content=DAGL4KPcbRU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 

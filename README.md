@@ -6,7 +6,7 @@
 
 :page_facing_up: **Relatório:** [Clique aqui](/relatorio/Relatório___Análise_Computacional_da_Aprendizagem___Projeto_1.pdf)
 
-:tv: **Slide:** [Clique aqui](https://www.canva.com/design/)
+:tv: **Slide:** [Clique aqui](https://www.canva.com/design/DAGL4KPcbRU/QjbD-zuC5lVUlhbTX14cHg/edit?utm_content=DAGL4KPcbRU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## Resumo
 
@@ -14,9 +14,9 @@ Este relatório mostra um projeto desenvolvido na disciplina de Análise Computa
 
 ## :warning: Orientações para executar o projeto
 
-- Baixe o arquivo que está dentro do diretório **models** com o nome `projeto-u2.ows`.
-- No diretório **datasets** baixe os arquivos `balanced_dataset.csv` e o `transformedstandardized_dataset.csv`.
+1. Baixe o arquivo que está dentro do diretório **models** com o nome `projeto-u2.ows`.
+2. No diretório **datasets** baixe os arquivos `balanced_dataset.csv` e o `transformedstandardized_dataset.csv`.
 
-- Com o software Orange devidamente instalado, carregue o arquivo `projeto-u2.ows`.
-- Em seguida faça o upload do `balanced_dataset.csv` no ***File*** para carregar o modelo de classificação.
-- E para carregar o modelo de regressão, faça o upload do arquivo `transformedstandardized_dataset.csv` em ***File(1)***.
+3. Com o software Orange devidamente instalado, carregue o arquivo `projeto-u2.ows`.
+4. Em seguida faça o upload do `balanced_dataset.csv` no ***File*** para carregar o modelo de classificação.
+5. E para carregar o modelo de regressão, faça o upload do arquivo `transformedstandardized_dataset.csv` em ***File(1)***.

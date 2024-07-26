@@ -6,7 +6,7 @@
 https://www.kaggle.com/datasets/darrylljk/worlds-best-universities-qs-rankings-2025)
 
 
-:page_facing_up: **Relatório:** [Clique aqui](/relatorio/Relatório_Projeto1.pdf)
+:page_facing_up: **Relatório:** [Clique aqui](/relatorio/Relatório.pdf)
 
 :tv: **Slide:** [Clique aqui](https://www.canva.com/design/DAGL4KPcbRU/QjbD-zuC5lVUlhbTX14cHg/edit?utm_content=DAGL4KPcbRU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 

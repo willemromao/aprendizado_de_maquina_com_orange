@@ -30,17 +30,17 @@ Para executar os modelos, siga os passos abaixo:
 
 **Classificação**
 
-1. No diretório **datasets** baixe o arquivo `balanced_dataset.csv`.
+1. No diretório **datasets** baixe o [arquivo](/datasets/balanced_dataset.csv) `balanced_dataset.csv`.
 2. Em seguida faça o upload do `balanced_dataset.csv` no ***File*** para carregar o modelo de classificação.
 
 **Regressão 1**
 
-1. No diretório **datasets** baixe o arquivo `transformedstandardized_dataset.csv`.
+1. No diretório **datasets** baixe o [arquivo](/datasets/transformedstandardized_dataset.csv) `transformedstandardized_dataset.csv`.
 2. Em seguida faça o upload do `transformedstandardized_dataset.csv` no ***File(1)*** para carregar o modelo de regressão 1.
 
 **Regressão 2**
 
 O modelo de Regressão 2 serve apenas de fins didáticos para analisar o que seria uma relação linearmente forte entre duas variáveis em um modelo de regressão linear. O mesmo faz uma predição do score no ranking das melhores universidades do mundo de acordo com a extensão das colaborações internacionais em pesquisa.
 
-1. No diretório **datasets** baixe o arquivo `qs-world-rankings-2025-fake.csv`.
+1. No diretório **datasets** baixe o [arquivo](/datasets/qs-world-rankings-2025-fake.csv) `qs-world-rankings-2025-fake.csv`.
 2. Em seguida faça o upload do `qs-world-rankings-2025-fake.csv` no ***File(2)*** para carregar o modelo de regressão 2.

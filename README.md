@@ -12,9 +12,31 @@ Este relatório mostra um projeto desenvolvido na disciplina de Análise Computa
 
 ## :warning: Orientações para executar o projeto
 
-1. Baixe o arquivo que está dentro do diretório **models** com o nome `projeto-u2.ows`.
-2. No diretório **datasets** baixe os arquivos `balanced_dataset.csv` e o `transformedstandardized_dataset.csv`.
+![Imagem do projeto no Orange](/imgs/img_projeto.png)
 
-3. Com o software Orange devidamente instalado, carregue o arquivo `projeto-u2.ows`.
-4. Em seguida faça o upload do `balanced_dataset.csv` no ***File*** para carregar o modelo de classificação.
-5. E para carregar o modelo de regressão, faça o upload do arquivo `transformedstandardized_dataset.csv` em ***File(1)***.
+Vamos dividir o projeto orange acima em 3 modelos:
+1. **Localizado acima:** Classificação
+2. **Localização inferior esquerda:** Regressão 1
+3. **Localização inferior direita:** Regressão 2
+
+Para executar os modelos, siga os passos abaixo:
+
+1. Baixe o arquivo que está dentro do diretório **models** com o nome `projeto-u2.ows`.
+2. Com o software Orange devidamente instalado, carregue o arquivo `projeto-u2.ows`.
+
+**Classificação**
+
+1. No diretório **datasets** baixe o arquivo `balanced_dataset.csv`.
+2. Em seguida faça o upload do `balanced_dataset.csv` no ***File*** para carregar o modelo de classificação.
+
+**Regressão 1**
+
+1. No diretório **datasets** baixe o arquivo `transformedstandardized_dataset.csv`.
+2. Em seguida faça o upload do `transformedstandardized_dataset.csv` no ***File(1)*** para carregar o modelo.
+
+**Regressão 2**
+
+O modelo de Regressão 2 serve apenas de fins didáticos para analisar o que seria uma relação linearmente forte entre duas variáveis em um modelo de regressão linear. O mesmo faz uma predição do score no ranking das melhores universidades do mundo de acordo com a extensão das colaborações internacionais em pesquisa.
+
+1. No diretório **datasets** baixe o arquivo `qs-world-rankings-2025-fake.csv`.
+2. Em seguida faça o upload do `qs-world-rankings-2025-fake.csv` no ***File(2)*** para carregar o modelo.

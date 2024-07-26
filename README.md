@@ -25,7 +25,7 @@ Vamos dividir o projeto orange acima em 3 modelos:
 
 Para executar os modelos, siga os passos abaixo:
 
-1. Baixe o arquivo que está dentro do diretório **models** com o nome `projeto-u2.ows`.
+1. Baixe o [arquivo](/models/projeto-u2.ows) que está dentro do diretório **models** com o nome `projeto-u2.ows`.
 2. Com o software Orange devidamente instalado, carregue o arquivo `projeto-u2.ows`.
 
 **Classificação**

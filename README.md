@@ -40,7 +40,7 @@ Para executar os modelos, siga os passos abaixo:
 
 **Regressão 2**
 
-O modelo de Regressão 2 serve apenas de fins didáticos para analisar o que seria uma relação linearmente forte entre duas variáveis em um modelo de regressão linear. O mesmo faz uma predição do score no ranking das melhores universidades do mundo de acordo com a extensão das colaborações internacionais em pesquisa.
+O modelo de Regressão 2 serve apenas de fins didáticos para analisar o que seria uma relação linearmente forte entre duas variáveis em um modelo de regressão linear. O mesmo faz uma predição do score no ranking das melhores universidades do mundo de acordo com a extensão das colaborações internacionais em pesquisa. Portanto, os dados do dataset original foram manipulados.
 
 1. No diretório **datasets** baixe o [arquivo](/datasets/qs-world-rankings-2025-fake.csv) `qs-world-rankings-2025-fake.csv`.
 2. Em seguida faça o upload do `qs-world-rankings-2025-fake.csv` no ***File(2)*** para carregar o modelo de regressão 2.

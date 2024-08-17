@@ -1,5 +1,6 @@
-/notebooks/.ipynb_checkpoints
+/associacao_e_agrupamento/datasets/.ipynb_checkpoints
+/classificacao_e_regressao/datasets/.ipynb_checkpoints
+/classificacao_e_regressao/notebooks/.ipynb_checkpoints
 
-/datasets/*dataset_ies.csv
-/datasets/*cleaned_dataset.csv
-
+/classificacao_e_regressao/datasets/*dataset_ies.csv
+/classificacao_e_regressao/datasets/*cleaned_dataset.csv

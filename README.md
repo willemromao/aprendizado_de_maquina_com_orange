@@ -1,5 +1,7 @@
 # Aprendizado de Máquina com Orange
 
+![logo_orange](/logo.png)
+
 :1234: :chart_with_upwards_trend: **Classificação e Regressão:** [clique aqui](/classificacao_e_regressao/).
 
 :arrow_right: :o: **Associação e Agrupamento:** [clique aqui](/associacao_e_agrupamento/).

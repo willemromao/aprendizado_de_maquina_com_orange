@@ -8,8 +8,6 @@ https://www.kaggle.com/datasets/darrylljk/worlds-best-universities-qs-rankings-2
 
 :page_facing_up: **Relatório:** [Clique aqui](/relatorio/Relatório.pdf)
 
-:tv: **Slide:** [Clique aqui](https://www.canva.com/design/DAGL4KPcbRU/QjbD-zuC5lVUlhbTX14cHg/edit?utm_content=DAGL4KPcbRU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-
 ## Resumo
 
 Este repositório faz parte de um projeto desenvolvido na disciplina de Análise Computacional da Aprendizagem, onde o autor criou modelos de aprendizado de máquina, especialmente classificação e regressão com uma base dados extraída do portal de dados abertos do Ministério da Educação (MEC) sobre os cursos de graduação no Brasil. Além disso, é mostrado as etapas de pré-processamento, incluindo limpeza, balanceamento e transformação. Por fim, é exposto os resultados das métricas dos modelos, sendo 79% de acurácia para o modelo de classificação e um R2 de 0.63 para o modelo de regressão.
@@ -32,11 +30,6 @@ Para executar os modelos, siga os passos abaixo:
 
 1. No diretório **datasets** baixe o [arquivo](/datasets/balanced_dataset.csv) `balanced_dataset.csv`.
 2. Em seguida faça o upload do `balanced_dataset.csv` no ***File*** para carregar o modelo de classificação.
-
-**Regressão 1**
-
-1. No diretório **datasets** baixe o [arquivo](/datasets/transformedstandardized_dataset.csv) `transformedstandardized_dataset.csv`.
-2. Em seguida faça o upload do `transformedstandardized_dataset.csv` no ***File(1)*** para carregar o modelo de regressão 1.
 
 **Regressão 2**
 

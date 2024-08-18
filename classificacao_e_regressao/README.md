@@ -23,7 +23,7 @@ Para executar os modelos, siga os passos abaixo:
 
 **Classificação**
 
-<img src="/classificacao_e_regressao/imgs/projeto_classificacao.png" alt="projeto_classificacao" width="450" height="400">
+<img src="/classificacao_e_regressao/imgs/projeto_classificacao.png" alt="projeto_classificacao" width="550" height="350">
 
 1. No diretório **datasets** baixe o [arquivo](/classificacao_e_regressao/datasets/cursos_graduacao_brasil_balanceado.csv) `cursos_graduacao_brasil_balanceado.csv`.
 2. Em seguida faça o upload do `cursos_graduacao_brasil_balanceado.csv` no ***File*** para carregar o modelo de classificação.

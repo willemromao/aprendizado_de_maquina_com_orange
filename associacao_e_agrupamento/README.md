@@ -1,9 +1,9 @@
 # Associação e Agrupamento
 
-:game_die: **Dataset Cursos de Graduação Brasil:** [Clique aqui](https://dadosabertos.mec.gov.br/indicadores-sobre-ensino-superior/item/183-cursos-de-graduacao-do-brasil)
+:game_die: **Dataset Cursos de Graduação Brasil:** [clique aqui](https://dadosabertos.mec.gov.br/indicadores-sobre-ensino-superior/item/183-cursos-de-graduacao-do-brasil).
 
-:game_die: **Dataset Students Performance:** [Clique aqui](
-https://www.kaggle.com/datasets/spscientist/students-performance-in-exams)
+:game_die: **Dataset Students Performance:** [clique aqui](
+https://www.kaggle.com/datasets/spscientist/students-performance-in-exams).
 
 ## Resumo
 

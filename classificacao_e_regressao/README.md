@@ -1,9 +1,9 @@
 # Classificação e Regressão
 
-:game_die: **Dataset Cursos de Graduação Brasil:** [Clique aqui](https://dadosabertos.mec.gov.br/indicadores-sobre-ensino-superior/item/183-cursos-de-graduacao-do-brasil)
+:game_die: **Dataset Cursos de Graduação Brasil:** [clique aqui](https://dadosabertos.mec.gov.br/indicadores-sobre-ensino-superior/item/183-cursos-de-graduacao-do-brasil).
 
-:game_die: **Dataset Worlds Best Universities:** [Clique aqui](
-https://www.kaggle.com/datasets/darrylljk/worlds-best-universities-qs-rankings-2025)
+:game_die: **Dataset Worlds Best Universities:** [clique aqui](
+https://www.kaggle.com/datasets/darrylljk/worlds-best-universities-qs-rankings-2025).
 
 
 :page_facing_up: **Relatório:** [Clique aqui](/relatorio/Relatório.pdf)

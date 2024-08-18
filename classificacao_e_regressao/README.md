@@ -21,16 +21,16 @@ Para executar os modelos, siga os passos abaixo:
     - Projeto regressão: [clique aqui](/classificacao_e_regressao/modelos/projeto_orange/regressao.ows).
 2. Com o software Orange devidamente instalado, carregue esses arquivos clicando em `Open`.
 
-**Classificação**
+**Classificação:**
 
 <img src="/classificacao_e_regressao/imgs/projeto_classificacao.png" alt="projeto_classificacao" width="825" height="350">
 
 1. No diretório **datasets** baixe o [arquivo](/classificacao_e_regressao/datasets/cursos_graduacao_brasil_balanceado.csv) `cursos_graduacao_brasil_balanceado.csv`.
 2. Em seguida faça o upload do `cursos_graduacao_brasil_balanceado.csv` no ***File*** para carregar o modelo de classificação.
 
-**Regressão**
+**Regressão:**
 
-<img src="/classificacao_e_regressao/imgs/projeto_regressao.png" alt="projeto_regressao" width="450" height="350">
+<img src="/classificacao_e_regressao/imgs/projeto_regressao.png" alt="projeto_regressao" width="500" height="350">
 
 1. No diretório **datasets** baixe o [arquivo](/classificacao_e_regressao/datasets/qs_world_rankings_2025_fake.csv) `qs_world_rankings_2025_fake.csv`.
 2. Em seguida faça o upload do `qs_world_rankings_2025_fake.csv` no ***File*** para carregar o modelo de regressão.

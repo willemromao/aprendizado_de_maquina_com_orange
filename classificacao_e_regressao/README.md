@@ -1,4 +1,4 @@
-# Cursos de Graduação no Brasil - Classificação e Regressão
+# Classificação e Regressão
 
 :game_die: **Dataset Cursos de Graduação Brasil:** [Clique aqui](https://dadosabertos.mec.gov.br/indicadores-sobre-ensino-superior/item/183-cursos-de-graduacao-do-brasil)
 
@@ -10,30 +10,27 @@ https://www.kaggle.com/datasets/darrylljk/worlds-best-universities-qs-rankings-2
 
 ## Resumo
 
-Este repositório faz parte de um projeto desenvolvido na disciplina de Análise Computacional da Aprendizagem, onde o autor criou modelos de aprendizado de máquina, especialmente classificação e regressão com uma base dados extraída do portal de dados abertos do Ministério da Educação (MEC) sobre os cursos de graduação no Brasil. Além disso, é mostrado as etapas de pré-processamento, incluindo limpeza, balanceamento e transformação. Por fim, é exposto os resultados das métricas dos modelos, sendo 79% de acurácia para o modelo de classificação e um R2 de 0.63 para o modelo de regressão.
+Este repositório faz parte de um projeto, onde o autor criou modelos de aprendizado de máquina, especialmente classificação e regressão com uma base dados extraída do portal de dados abertos do Ministério da Educação (MEC) sobre os cursos de graduação no Brasile outra base do QS World University Rankings. Os resultados das métricas dos modelos, sendo 79% de acurácia para o modelo de classificação e um R2 de 0.91 para o modelo de regressão.
 
 ## :warning: Orientações para executar o projeto
 
-![Imagem do projeto no Orange](/classificacao_e_regressao//imgs/img_projeto.png)
-
-Vamos dividir o projeto orange acima em 3 modelos:
-1. **Localizado acima:** Classificação
-2. **Localização inferior esquerda:** Regressão 1
-3. **Localização inferior direita:** Regressão 2
-
 Para executar os modelos, siga os passos abaixo:
 
-1. Baixe o [arquivo](/models/projeto-u2.ows) que está dentro do diretório **models** com o nome `projeto-u2.ows`.
-2. Com o software Orange devidamente instalado, carregue o arquivo `projeto-u2.ows`.
+1. Baixe os seguintes arquivos:
+    - Projeto classificação: [clique aqui](/classificacao_e_regressao/modelos/projeto_orange/classificacao.ows).
+    - Projeto regressão: [clique aqui](/classificacao_e_regressao/modelos/projeto_orange/regressao.ows).
+2. Com o software Orange devidamente instalado, carregue esses arquivos clicando em `Open`.
 
 **Classificação**
 
-1. No diretório **datasets** baixe o [arquivo](/datasets/balanced_dataset.csv) `balanced_dataset.csv`.
-2. Em seguida faça o upload do `balanced_dataset.csv` no ***File*** para carregar o modelo de classificação.
+<img src="/classificacao_e_regressao/imgs/projeto_classificacao.png" alt="projeto_classificacao" width="350" height="200">
 
-**Regressão 2**
+1. No diretório **datasets** baixe o [arquivo](/classificacao_e_regressao/datasets/cursos_graduacao_brasil_balanceado.csv) `balanced_dataset.csv`.
+2. Em seguida faça o upload do `cursos_graduacao_brasil_balanceado.csv` no ***File*** para carregar o modelo de classificação.
 
-O modelo de Regressão 2 serve apenas de fins didáticos para analisar o que seria uma relação linearmente forte entre duas variáveis em um modelo de regressão linear. O mesmo faz uma predição do score no ranking das melhores universidades do mundo de acordo com a extensão das colaborações internacionais em pesquisa. Portanto, os dados do dataset original foram manipulados.
+**Regressão**
 
-1. No diretório **datasets** baixe o [arquivo](/datasets/qs-world-rankings-2025-fake.csv) `qs-world-rankings-2025-fake.csv`.
-2. Em seguida faça o upload do `qs-world-rankings-2025-fake.csv` no ***File(2)*** para carregar o modelo de regressão 2.
+<img src="/classificacao_e_regressao/imgs/projeto_regressao.png" alt="projeto_regressao" width="350" height="200">
+
+1. No diretório **datasets** baixe o [arquivo](/classificacao_e_regressao/datasets/qs_world_rankings_2025_fake.csv) `qs_world_rankings_2025_fake.csv`.
+2. Em seguida faça o upload do `qs_world_rankings_2025_fake.csv` no ***File*** para carregar o modelo de regressão.

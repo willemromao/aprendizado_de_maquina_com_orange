@@ -6,7 +6,7 @@
 https://www.kaggle.com/datasets/darrylljk/worlds-best-universities-qs-rankings-2025).
 
 
-:page_facing_up: **Relatório:** [Clique aqui](/relatorio/Relatório.pdf)
+:page_facing_up: **Relatório:** [clique aqui](/relatorio/Relatório.pdf).
 
 ## Resumo
 

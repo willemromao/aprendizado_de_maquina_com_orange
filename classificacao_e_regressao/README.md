@@ -10,7 +10,7 @@ https://www.kaggle.com/datasets/darrylljk/worlds-best-universities-qs-rankings-2
 
 ## Resumo
 
-Este repositório faz parte de um projeto, onde o autor criou modelos de aprendizado de máquina, especialmente classificação e regressão com uma base dados extraída do portal de dados abertos do Ministério da Educação (MEC) sobre os cursos de graduação no Brasile outra base do QS World University Rankings. Os resultados das métricas dos modelos, sendo 79% de acurácia para o modelo de classificação e um R2 de 0.91 para o modelo de regressão.
+Este repositório faz parte de um projeto, onde o autor criou modelos de aprendizado de máquina, especialmente classificação e regressão com uma base dados extraída do portal de dados abertos do Ministério da Educação (MEC) sobre os cursos de graduação no Brasil e outra base do QS World University Rankings. Os resultados das métricas dos modelos, sendo 79% de acurácia para o modelo de classificação e um R2 de 0.91 para o modelo de regressão.
 
 ## :warning: Orientações para executar o projeto
 
@@ -23,14 +23,14 @@ Para executar os modelos, siga os passos abaixo:
 
 **Classificação**
 
-<img src="/classificacao_e_regressao/imgs/projeto_classificacao.png" alt="projeto_classificacao" width="350" height="200">
+<img src="/classificacao_e_regressao/imgs/projeto_classificacao.png" alt="projeto_classificacao" width="450" height="350">
 
-1. No diretório **datasets** baixe o [arquivo](/classificacao_e_regressao/datasets/cursos_graduacao_brasil_balanceado.csv) `balanced_dataset.csv`.
+1. No diretório **datasets** baixe o [arquivo](/classificacao_e_regressao/datasets/cursos_graduacao_brasil_balanceado.csv) `cursos_graduacao_brasil_balanceado.csv`.
 2. Em seguida faça o upload do `cursos_graduacao_brasil_balanceado.csv` no ***File*** para carregar o modelo de classificação.
 
 **Regressão**
 
-<img src="/classificacao_e_regressao/imgs/projeto_regressao.png" alt="projeto_regressao" width="350" height="200">
+<img src="/classificacao_e_regressao/imgs/projeto_regressao.png" alt="projeto_regressao" width="450" height="350">
 
 1. No diretório **datasets** baixe o [arquivo](/classificacao_e_regressao/datasets/qs_world_rankings_2025_fake.csv) `qs_world_rankings_2025_fake.csv`.
 2. Em seguida faça o upload do `qs_world_rankings_2025_fake.csv` no ***File*** para carregar o modelo de regressão.

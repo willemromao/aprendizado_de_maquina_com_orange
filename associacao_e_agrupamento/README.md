@@ -1,13 +1,11 @@
 # Associação e Agrupamento
 
-:game_die: **Dataset Cursos de Graduação Brasil:** [clique aqui](https://dadosabertos.mec.gov.br/indicadores-sobre-ensino-superior/item/183-cursos-de-graduacao-do-brasil).
-
 :game_die: **Dataset Students Performance:** [clique aqui](
 https://www.kaggle.com/datasets/spscientist/students-performance-in-exams).
 
 ## Resumo
 
-Texto texto texto.
+Este repositório faz parte de um projeto, onde o autor criou modelos de aprendizado de máquina, especialmente associação e agrupamento com uma base dados extraída do Kaggle sobre performance de estudantes.
 
 ## :warning: Orientações para executar o projeto
 
@@ -20,14 +18,14 @@ Para executar os modelos, siga os passos abaixo:
 
 **:arrow_right: Associação:**
 
-<img src="/associacao_e_agrupamento/imgs/" alt="projeto_associacao" width="825" height="350">
+<img src="/imgs/projeto_associacao.png" alt="projeto_associacao" width="825" height="350">
 
-1. No diretório **datasets** baixe o [arquivo](/associacao_e_agrupamento/datasets/cursos_graduacao_brasil.csv) `cursos_graduacao_brasil.csv`.
-2. Em seguida faça o upload do `cursos_graduacao_brasil.csv` no ***File*** para carregar o modelo de classificação.
+1. No diretório **datasets** baixe o [arquivo](/associacao_e_agrupamento/datasets/cursos_graduacao_brasil.csv) `students_performance.csv`.
+2. Em seguida faça o upload do `students_performance.csv` no ***File*** para carregar o modelo de classificação.
 
 **:o: Agrupamento:**
 
-<img src="/associacao_e_agrupamento/imgs/" alt="projeto_agrupamento" width="500" height="350">
+<img src="/imgs/projeto_agrupamento.png" alt="projeto_agrupamento" width="500" height="350">
 
-1. No diretório **datasets** baixe o [arquivo](/associacao_e_agrupamento/datasets/students_performance.csv) `students_performance.csv`.
+1. No diretório **datasets** baixe o [arquivo](/datasets/students_performance.csv) `students_performance.csv` (caso não tenha feito o download).
 2. Em seguida faça o upload do `students_performance.csv` no ***File*** para carregar o modelo de regressão.

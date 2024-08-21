@@ -1,6 +1,6 @@
 # Aprendizado de Máquina com Orange
 
-<img src="/logo.png" alt="logo_orange" width="350" height="200">
+<img src="/imgs/logo_orange.png" alt="logo_orange" width="350" height="200">
 
 :1234: :chart_with_upwards_trend: **Classificação e Regressão:** [clique aqui](/classificacao_e_regressao/).
 

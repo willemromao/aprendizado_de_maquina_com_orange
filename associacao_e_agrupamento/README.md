@@ -21,11 +21,11 @@ Para executar os modelos, siga os passos abaixo:
 <img src="/imgs/projeto_associacao.png" alt="projeto_associacao" width="630" height="250">
 
 1. No diretório **datasets** baixe o [arquivo](/datasets/students_performance.csv) `students_performance.csv`.
-2. Em seguida faça o upload do `students_performance.csv` no ***File*** para carregar o modelo de classificação.
+2. Em seguida faça o upload do `students_performance.csv` no ***File*** para carregar o modelo de associação.
 
 **:o: Agrupamento:**
 
 <img src="/imgs/projeto_agrupamento.png" alt="projeto_agrupamento" width="550" height="350">
 
 1. No diretório **datasets** baixe o [arquivo](/datasets/students_performance.csv) `students_performance.csv` (caso não tenha feito o download).
-2. Em seguida faça o upload do `students_performance.csv` no ***File*** para carregar o modelo de regressão.
+2. Em seguida faça o upload do `students_performance.csv` no ***File*** para carregar o modelo de agrupamento.

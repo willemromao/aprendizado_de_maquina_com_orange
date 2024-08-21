@@ -18,14 +18,14 @@ Para executar os modelos, siga os passos abaixo:
 
 **:arrow_right: Associação:**
 
-<img src="/imgs/projeto_associacao.png" alt="projeto_associacao" width="630" height="150">
+<img src="/imgs/projeto_associacao.png" alt="projeto_associacao" width="630" height="200">
 
 1. No diretório **datasets** baixe o [arquivo](/datasets/students_performance.csv) `students_performance.csv`.
 2. Em seguida faça o upload do `students_performance.csv` no ***File*** para carregar o modelo de classificação.
 
 **:o: Agrupamento:**
 
-<img src="/imgs/projeto_agrupamento.png" alt="projeto_agrupamento" width="510" height="350">
+<img src="/imgs/projeto_agrupamento.png" alt="projeto_agrupamento" width="515" height="350">
 
 1. No diretório **datasets** baixe o [arquivo](/datasets/students_performance.csv) `students_performance.csv` (caso não tenha feito o download).
 2. Em seguida faça o upload do `students_performance.csv` no ***File*** para carregar o modelo de regressão.

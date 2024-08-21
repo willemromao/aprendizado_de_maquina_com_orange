@@ -25,7 +25,7 @@ Para executar os modelos, siga os passos abaixo:
 
 **:o: Agrupamento:**
 
-<img src="/imgs/projeto_agrupamento.png" alt="projeto_agrupamento" width="520" height="350">
+<img src="/imgs/projeto_agrupamento.png" alt="projeto_agrupamento" width="530" height="350">
 
 1. No diretório **datasets** baixe o [arquivo](/datasets/students_performance.csv) `students_performance.csv` (caso não tenha feito o download).
 2. Em seguida faça o upload do `students_performance.csv` no ***File*** para carregar o modelo de regressão.
